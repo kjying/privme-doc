@@ -15,8 +15,8 @@ content     | string    | 内容      | true |
 {
 	'code': 200,
 	'data': {
-		'count_comment': 1,
-		'comment': comment_info
+		'count_comment': 1,	#新的评论数
+		'comment': comment_info	#本次发布的评论信息
 	},
 	'desc': ''
 }
