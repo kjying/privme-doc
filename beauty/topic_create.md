@@ -12,7 +12,7 @@ title       | string    | 标题                      |true |
 desc        | string    | 描述                      |false |
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': topic_info_detail,
