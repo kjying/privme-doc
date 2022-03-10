@@ -12,7 +12,7 @@
 topic_id    | int       | 动态id    | true |
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': [],

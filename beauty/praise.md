@@ -11,7 +11,7 @@ topic_id    | int       | 动态id    | true |
 is_del    | int       | 取消点赞:1    | false |0
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': {

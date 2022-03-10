@@ -11,7 +11,7 @@ startIndex     | int       | 之前已经获取的数量 分页(拉取更多)时
 count    | int    | 数量       | false | 10
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': topic_info,
@@ -19,7 +19,7 @@ count    | int    | 数量       | false | 10
 }
 ```
 [topic_info](entity_topic_info.md)
-```json
+```javascript
 {
 	'code': 200,
 	'data': [{

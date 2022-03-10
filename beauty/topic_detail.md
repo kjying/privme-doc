@@ -10,7 +10,7 @@
 topic_id    | int    | 动态id       | true |
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': topic_info_detail,
@@ -18,7 +18,7 @@ topic_id    | int    | 动态id       | true |
 }
 ```
 [topic_info_detail](entity_topic_info_detail.md)
-```json
+```javascript
 {
 	'code': 200,
 	'data': {

@@ -11,7 +11,7 @@ topic_id    | int       | 动态id    | true |
 content     | string    | 内容      | true |
 
 ##### HTTP Response
-```json
+```javascript
 {
 	'code': 200,
 	'data': {
@@ -22,7 +22,7 @@ content     | string    | 内容      | true |
 }
 ```
 [comment_info](entity_comment_info.md)
-```json
+```javascript
 {
 	'code': 200,
 	'data': {
