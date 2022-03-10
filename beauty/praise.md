@@ -15,7 +15,7 @@ is_del    | int       | 取消点赞:1    | false |0
 {
 	'code': 200,
 	'data': {
-		'count_praise': 1
+		'count_praise': 1	#新的点赞数
 	},
 	'desc': ''
 }

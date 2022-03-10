@@ -21,7 +21,7 @@ content     | string    | 内容      | true |
 	'desc': ''
 }
 ```
-[comment_info](entity_comment_info.md)
+[comment_info](entity_comment.md)
 ```javascript
 {
 	'code': 200,
