@@ -16,3 +16,4 @@ t_create        | int    | 发布时间utc秒
 desc            | string | 描述
 pics            | array:[[entity_pic]](entity_pic.md) |图片列表
 comments        | array:[[entity_comment]](entity_comment.md) | 评论列表
+praised         | int    | (自己) 0:未点赞 1:已点赞
