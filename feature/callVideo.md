@@ -8,6 +8,7 @@
         "call": {
             // 其他字段省略
             "preload_video_url": "https://wangsu.huataclub.com/video/2022-03-23_1648029358.mp4",  //预加载地址
+            "preload_video_seconds": 30,
         }
     },
 	'desc': ''
