@@ -28,4 +28,4 @@
 ```
 
 3. 播放开始后通知服务端
-#### 用户点拨打后播放视频 并调用该接口 不用等完成播放再调用 [/app/paycall/call_video.php](../paycall/call_video.md)
+#### 用户点接听后播放视频 并调用该接口 不用等完成播放再调用 [/app/paycall/call_video.php](../paycall/call_video.md)
