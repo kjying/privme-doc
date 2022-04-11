@@ -7,7 +7,7 @@
 名称|格式|描述|必须|默认值
 ---|---|---|---|---
 公共参数||||
-uid    | int    | 用户id       | true |
+user_id    | int    | 用户id       | true |
 info    | string    | 附加信息       | true |
 
 ##### HTTP Response
