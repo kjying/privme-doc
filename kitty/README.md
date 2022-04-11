@@ -8,3 +8,4 @@
 |用户补充信息| /app/kitty/lover_info.php |[doc](lover_info.md)|
 |用户补充信息更新| /app/kitty/lover_info_update.php |[doc](lover_info_update.md)|
 |用户列表| /app/kitty/lover_list.php |[doc](lover_list.md)|
+|关注列表| /app/kitty/follow_list.php |[doc](follow_list.md)|
